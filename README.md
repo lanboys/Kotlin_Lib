@@ -5,6 +5,12 @@
 
 Kotlin从入门到『放弃』系列 视频教程
  https://github.com/enbandari/Kotlin-Tutorials
+ 
+GitBook 上的电子书：
+
+ gitbook.com/book/hltj/kotlin-reference-chinese
+ 
+ https://developer.android.com/kotlin/get-started.html
 
 ## 更新日志: ##
 
